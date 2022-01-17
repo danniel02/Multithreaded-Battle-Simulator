@@ -1,0 +1,13 @@
+Author:
+    Danniel Kim
+
+Purpose:
+    A multi-threaded program that simulates different scenarios of battle of two heroes fighting a deque of pirates
+    from either sides. Simulates different fighters' attributes and prints a table of statistics based on the simulations.
+
+Header Files:
+    defs.h
+
+Source Files:
+    main.c deque.c fighter.c specs.c
+
